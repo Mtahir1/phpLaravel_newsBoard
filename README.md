@@ -1,4 +1,5 @@
 Main News Board Platfrom: http://localhost:8000/news
+
 Api for signage system: http://localhost:8000/api/news
 
 Instructions to run:
