@@ -1,4 +1,5 @@
 Instructions to run:
+
     Create a database locally named pilottest utf8_general_ci
     Download composer https://getcomposer.org/download/
     Pull Laravel/php project from git provider.
