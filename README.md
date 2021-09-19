@@ -13,22 +13,20 @@ Instructions to run:
 
 Requirements: 
 
-Php 7.3+
+    Php 7.3+
 
-Laravel Version: 8
-Laravel Frontend Dependencies: axios,
-bootstrap,
-cross-env,
-jquery,
-laravel-mix,
-lodash,
-popper.js,
-resolve-url-loader,
-sass,
-sass-loader,
-
-
-Database: MySQL
+    Laravel Version: 8
+    Laravel Frontend Dependencies: axios,
+    bootstrap,
+    cross-env,
+    jquery,
+    laravel-mix,
+    lodash,
+    popper.js,
+    resolve-url-loader,
+    sass,
+    sass-loader,
+    Database: MySQL
 
 
 ## About Laravel
