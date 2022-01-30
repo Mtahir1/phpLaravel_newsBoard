@@ -3,6 +3,7 @@ Main News Board Platfrom: http://localhost:8000/news
 Api for signage system: http://localhost:8000/api/news
 
 ### Instructions to run:
+<hr />
 
     Create a database locally named pilottest utf8_general_ci
     Download composer https://getcomposer.org/download/
@@ -16,6 +17,7 @@ Api for signage system: http://localhost:8000/api/news
 
 
 ### Requirements: 
+<hr />
 
     Php 7.3+
 
